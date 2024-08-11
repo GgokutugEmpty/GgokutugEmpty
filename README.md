@@ -15,8 +15,7 @@
 - 💬 Ask me about **Hardware,Data Recovery**
 
 - 📄 Know about my experiences 
-'''
-Linux,Bash,Kernel Development,C/C++,ASM
+'''Linux,Bash,Kernel Development,C/C++,ASM
 
 - ⚡ Fun fact **Not good**
 
