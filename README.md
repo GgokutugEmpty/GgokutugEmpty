@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **KiwiOS,Data Doctor Data Recovery**
 
-- 🧑‍💻I’m currently learning **x86 Assembly,GNU and MIPS Syntax**
+- 🧑‍💻I’m currently learning **x86 Assembly,USB xHCI working logic**
 
 - 💬 Ask me about **Hardware,Data Recovery**
 
